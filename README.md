@@ -6,7 +6,7 @@
 <img src="https://i.imgur.com/C0rTivW.png">
 
 ## About
-This program is designed to facilitate the diagnosis of brain tumors from 2D MRI scan images, ensuring both accuracy and timeliness. The model is created using the TensorFlow API in Python, leveraging the high-level Keras API. The image classifier is based on a deep Convolutional Neural Network (CNN). For more information, try the [Streamlit app](https://brain-tumor-detection0.streamlit.app).
+This program is designed to facilitate the diagnosis of brain tumors from 2D MRI scan images, ensuring both accuracy and timeliness. The model is created using the TensorFlow API in Python, leveraging the high-level Keras API. The image classifier is based on a deep Convolutional Neural Network (CNN).
 
 ## Model Information
 ### Model Summary
