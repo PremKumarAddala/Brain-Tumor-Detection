@@ -41,10 +41,10 @@ Model: "sequential"
 ```
               precision    recall  f1-score   support
 
-           0       1.00      1.00      1.00       209
-           1       1.00      0.99      1.00       191
+           0       0.96      1.00      0.98       209
+           1       0.98      0.98      0.97       191
 
-    accuracy                           1.00       400
+    accuracy                           0.98       400
    macro avg       1.00      1.00      1.00       400
 weighted avg       1.00      1.00      1.00       400
 ```
